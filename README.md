@@ -37,6 +37,7 @@ This repository contains different types of academic and creative work
 that represent my learning experiences.
 
 ### 🎤 Presentation Works
+[Explore Activity 01 →](./Activity%201%3A%20Presentation%20Design%20Principles/)
 
 A collection of presentations where I explored ways of communicating
 information through effective visual structure, layout, and design.
@@ -50,7 +51,8 @@ information through effective visual structure, layout, and design.
 
 ---
 
-### 🎨 Visual Design Studies
+### 🎨 Visual Design Studies 
+[Explore Activity 02 →](./Activity%202%3A%20Color%20Palette%20and%20Typography/)
 
 These projects focus on the visual elements that influence how
 information is presented and perceived.
@@ -66,6 +68,7 @@ information is presented and perceived.
 ---
 
 ### 📱 Infographic Projects
+[Explore Activity 03 →](./Activity%203%3A%20Social%20Media%20Infographics%20and%20Mini%20Project%20Documentation/)
 
 Visual projects created to communicate information in a simple,
 organized, and engaging way.
